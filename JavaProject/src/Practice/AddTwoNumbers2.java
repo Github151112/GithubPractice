@@ -1,6 +1,6 @@
 package Practice;
 
-public class AddTwoNumbers {
+public class AddTwoNumbers2 {
 	
 	public static void main(String[] args) {
 		
